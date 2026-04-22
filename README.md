@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.webp" alt="Project Logo" width="200"/>
+</p>
+
 # 🛒 Blinkit Product Data Analysis (SQL Project)
 
 ## 📌 Overview
