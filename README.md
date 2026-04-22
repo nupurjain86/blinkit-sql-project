@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo-2.webp" alt="Project Logo" width="200"/>
+  <img src="images/logo-2.webp" alt="Project Logo" />
 </p>
 
 # 🛒 Blinkit Product Data Analysis (SQL Project)
